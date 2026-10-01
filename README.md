@@ -1,5 +1,5 @@
 # Auduina MK2
-[Auduina MK2](images/004.jpg)
+![Auduina MK2](images/004.jpg)
 A handmade multisensitive granular synthesizer, designed and built by [Los Aparatos](https://losaparatos.com.ar) in Tucumán, Argentina.
 
 ## What is it?
