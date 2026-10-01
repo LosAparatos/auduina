@@ -6,6 +6,7 @@ A handmade multisensitive granular synthesizer, designed and built by [Los Apara
 
 Auduina MK2 is a pentatonic granular synthesizer that responds to light, touch and voltage — instead of relying only on knobs, it reacts to gesture and environment, turning the space around it into part of the instrument. Its pentatonic tuning keeps it playable even without formal music background.
 
+
 Featured on [Create Digital Music (CDM)](cdm.link/los-aparatos/).
 
 ## Repository contents
