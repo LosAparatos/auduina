@@ -16,7 +16,9 @@ Featured on [Create Digital Music (CDM)](cdm.link/los-aparatos/).
 
 ## About Los Aparatos
 
-Los Aparatos is a one-person workshop building experimental electronic instruments — synthesizers, sound toys and DIY kits — by hand in Tucumán, Argentina, since 2007.
+## About Los Aparatos
+
+Los Aparatos is an electronic design studio building experimental musical instruments — synthesizers, sound toys and DIY kits — handmade in Tucumán, Argentina, since 2007.
 
 Other instruments: Drawdio (a sound pencil that turns drawing into sound), CoyuyoC (a drone synth), Theremingo (an analog theremin).
 
